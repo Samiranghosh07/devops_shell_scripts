@@ -25,9 +25,6 @@ This repository explains devops activity with real time shell scripts
 
 ## 📚 Table of Contents
 
-- [📁 Folder Structure](#-folder-structure)
-- [🚀 Getting Started](#-getting-started)
-- [💻 Usage Examples](#-usage-examples)
-- [📦 Script Index](#-script-index)
+- [📁 Folder Structure](#-devops_shell_scripts)
 
 ---
