@@ -22,3 +22,12 @@ This repository explains devops activity with real time shell scripts
 | `logcollect.sh` | Collect & copy logs from local system to aws s3 bucket and vice versa | `./logcollect.sh` |
 
 ---
+
+## 📚 Table of Contents
+
+- [📁 Folder Structure](#-folder-structure)
+- [🚀 Getting Started](#-getting-started)
+- [💻 Usage Examples](#-usage-examples)
+- [📦 Script Index](#-script-index)
+
+---
