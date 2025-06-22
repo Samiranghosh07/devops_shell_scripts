@@ -33,6 +33,4 @@ devops-shell-scripts/
 ├── dbbackup.sh
 ├── array_pkg.sh
 └── README.md
-
-
 ---
