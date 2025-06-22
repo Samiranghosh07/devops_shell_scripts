@@ -19,6 +19,6 @@ This repository explains devops activity with real time shell scripts
 | `bkp.sh` | Directory backup for specific | `./bkp.sh` |
 | `dbbackup.sh` | Database backup & restore | `./dbbackup.sh` |
 | `error_log.sh` | Collect error logs from specific location | `./error_log.sh` |
-| `logcollect.sh` | Collect & copy logs from local system to aws s3 bucket and vice versa | `./logcollect.sh.sh` |
+| `logcollect.sh` | Collect & copy logs from local system to aws s3 bucket and vice versa | `./logcollect.sh` |
 
 ---
