@@ -25,6 +25,14 @@ This repository explains devops activity with real time shell scripts
 
 ## 📚 Table of Contents
 
-- [📁 Folder Structure](#-devops_shell_scripts)
+```bash
+devops-shell-scripts/
+├── bkp.sh
+├── error_log.sh
+├── logcollect.sh
+├── dbbackup.sh
+├── array_pkg.sh
+└── README.md
+
 
 ---
